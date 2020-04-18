@@ -3,4 +3,4 @@ First repository
 
 Hello All,
 
-I'm working a bit on the understanding of Git
+I'm working a bit on the understanding of Git.  Years later, it seems.
